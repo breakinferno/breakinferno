@@ -1,6 +1,12 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Breakinferno <img alt="GitHub followers" src="https://img.shields.io/github/followers/breakinferno?style=social" />
 
+🍓 **About Me**
+
+- 🔭 主要使用: Typescript, C++, Python, C#
+- 👯 About me: saulty fish
+- 🌐 Languages: English, 中文, 日本語
+  
 <h3 align="left">💻 Languages and Tools</h3>
 <p>
 <img src="https://icongr.am/devicon/python-original.svg?size=108&color=61177c" alt="python" width="40" height="40"/>
@@ -50,7 +56,7 @@
   <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=breakinferno&theme=dracula" alt="My GitHub stats" height="183" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breakinferno&layout=compact&langs_count=10&theme=dracula" alt="Languages" height="183" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=breakinferno&theme=dracula" alt="Most Commit Languages" height="183" />
+    <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=breakinferno&theme=dracula" alt="Most Commit Languages" height="183" /> -->
   </p>
 </a>
 
@@ -59,6 +65,8 @@
  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=breakinferno" alt="breakinferno" height="144px" />
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=breakinferno&label=Profile%20views&color=0e75b6&style=flat" alt="lcomplete" /> </p>
+
+<!-- <img src="https://osu-sig.vercel.app/card?user=breakinferno&mode=std&blur=6&animation=true&mini=true" /> -->
 
 <!-- **breakinferno/breakinferno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
