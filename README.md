@@ -3,7 +3,7 @@
 
 🍓 **About Me**
 
-- 🔭 主要使用: Typescript, C++, Python, C#
+- 🔭 主要使用: Typescript, C++, Python, C#, Kotlin
 - 👯 About me: saulty fish
 - 🌐 Languages: English, 中文, 日本語
   
